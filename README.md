@@ -5,7 +5,7 @@ Home: https://www.python.org/
 
 Package license: Python-2.0
 
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/python-feedstock/blob/master/LICENSE.txt)
+Feedstock license: [BSD-3-Clause](https://github.com/curest0x1021/python-feedstock/blob/master/LICENSE.txt)
 
 Summary: General purpose programming language
 
@@ -152,7 +152,7 @@ packages to the [conda-forge](https://anaconda.org/conda-forge)
 [Anaconda-Cloud](https://anaconda.org/) channel for Linux, Windows and OSX respectively.
 
 To manage the continuous integration and simplify feedstock maintenance
-[conda-smithy](https://github.com/conda-forge/conda-smithy) has been developed.
+[conda-smithy](https://github.com/curest0x1021/conda-smithy) has been developed.
 Using the ``conda-forge.yml`` within this repository, it is possible to re-render all of
 this feedstock's supporting files (e.g. the CI configuration files) with ``conda smithy rerender``.
 
